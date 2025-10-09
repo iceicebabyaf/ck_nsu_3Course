@@ -5,7 +5,7 @@ import pandas as pd
 
 
 
-from lab_2.change_timeseries import (
+from lab_da2.change_timeseries import (
     load_dataframe_from_file,
     create_periodic_dataframe,
     convert_to_datetime,
